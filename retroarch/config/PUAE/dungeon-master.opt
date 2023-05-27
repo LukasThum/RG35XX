@@ -1,0 +1,8 @@
+
+puae_model = "A500"
+
+puae_cpu_model = "68000"
+
+puae_chipmem_size = "512"
+puae_fastmem_size = "0"
+puae_bogomem_size = "512"
